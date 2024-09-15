@@ -1,4 +1,4 @@
-module renderers
+module github.com/MichalWilczek/go-chi-renderers
 
 go 1.22.2
 

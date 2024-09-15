@@ -1,4 +1,4 @@
-package gochirenderers
+package renderers
 
 import (
 	"net/http"
